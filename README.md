@@ -19,7 +19,7 @@ CSS
 2-Como rodar o projeto
 - Instalar o MySQL 8.0.36 (https://dev.mysql.com/downloads/installer/)
 - Abrir o MySql Workbench
-- Criar um usuário padrão (user: root, password: ) senha vazia
+- Criar um usuário padrão (user: root, password: root)
 - Rodar os comandos do arquivo database.sql
 
 - Instalar o wampp server (https://www.wampserver.com/en/)
