@@ -1,7 +1,7 @@
 <?php
 
 $usuario = 'root';
-$senha = '';
+$senha = 'root';
 $database = 'salao_leila';
 $host = 'localhost';
 
